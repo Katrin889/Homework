@@ -1,0 +1,7 @@
+C:\Users\katri\Documents\Homework\Dvumeren i nazuben masiv\зад 5\bin\Debug\зад 5.exe.config
+C:\Users\katri\Documents\Homework\Dvumeren i nazuben masiv\зад 5\bin\Debug\зад 5.exe
+C:\Users\katri\Documents\Homework\Dvumeren i nazuben masiv\зад 5\bin\Debug\зад 5.pdb
+C:\Users\katri\Documents\Homework\Dvumeren i nazuben masiv\зад 5\obj\Debug\зад 5.csproj.AssemblyReference.cache
+C:\Users\katri\Documents\Homework\Dvumeren i nazuben masiv\зад 5\obj\Debug\зад 5.csproj.CoreCompileInputs.cache
+C:\Users\katri\Documents\Homework\Dvumeren i nazuben masiv\зад 5\obj\Debug\зад 5.exe
+C:\Users\katri\Documents\Homework\Dvumeren i nazuben masiv\зад 5\obj\Debug\зад 5.pdb

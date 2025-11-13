@@ -1,0 +1,7 @@
+C:\Users\katri\Documents\Homework\Dvumeren i nazuben masiv\zad 4\bin\Debug\zad 4.exe.config
+C:\Users\katri\Documents\Homework\Dvumeren i nazuben masiv\zad 4\bin\Debug\zad 4.exe
+C:\Users\katri\Documents\Homework\Dvumeren i nazuben masiv\zad 4\bin\Debug\zad 4.pdb
+C:\Users\katri\Documents\Homework\Dvumeren i nazuben masiv\zad 4\obj\Debug\zad 4.csproj.AssemblyReference.cache
+C:\Users\katri\Documents\Homework\Dvumeren i nazuben masiv\zad 4\obj\Debug\zad 4.csproj.CoreCompileInputs.cache
+C:\Users\katri\Documents\Homework\Dvumeren i nazuben masiv\zad 4\obj\Debug\zad 4.exe
+C:\Users\katri\Documents\Homework\Dvumeren i nazuben masiv\zad 4\obj\Debug\zad 4.pdb
