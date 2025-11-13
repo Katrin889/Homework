@@ -1,0 +1,8 @@
+C:\Users\katri\Documents\Homework\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\katri\Documents\Homework\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\katri\Documents\Homework\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\katri\Documents\Homework\Stack\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+C:\Users\katri\Documents\Homework\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\katri\Documents\Homework\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\katri\Documents\Homework\Stack\Stack\obj\Debug\Stack.pdb
+C:\Users\katri\Documents\Homework\Stack\Stack\obj\Debug\Stack.exe.config
