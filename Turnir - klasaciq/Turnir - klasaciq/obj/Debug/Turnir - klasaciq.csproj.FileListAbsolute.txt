@@ -1,0 +1,8 @@
+C:\Users\katri\Documents\Homework\Turnir - klasaciq\Turnir - klasaciq\bin\Debug\Turnir - klasaciq.exe.config
+C:\Users\katri\Documents\Homework\Turnir - klasaciq\Turnir - klasaciq\bin\Debug\Turnir - klasaciq.exe
+C:\Users\katri\Documents\Homework\Turnir - klasaciq\Turnir - klasaciq\bin\Debug\Turnir - klasaciq.pdb
+C:\Users\katri\Documents\Homework\Turnir - klasaciq\Turnir - klasaciq\obj\Debug\Turnir - klasaciq.csproj.AssemblyReference.cache
+C:\Users\katri\Documents\Homework\Turnir - klasaciq\Turnir - klasaciq\obj\Debug\Turnir - klasaciq.csproj.CoreCompileInputs.cache
+C:\Users\katri\Documents\Homework\Turnir - klasaciq\Turnir - klasaciq\obj\Debug\Turnir - klasaciq.exe
+C:\Users\katri\Documents\Homework\Turnir - klasaciq\Turnir - klasaciq\obj\Debug\Turnir - klasaciq.pdb
+C:\Users\katri\Documents\Homework\Turnir - klasaciq\Turnir - klasaciq\obj\Debug\Turnir - klasaciq.exe.config
