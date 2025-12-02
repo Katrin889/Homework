@@ -1,0 +1,8 @@
+C:\Users\katri\Documents\Homework\produkti\produkti\bin\Debug\produkti.exe.config
+C:\Users\katri\Documents\Homework\produkti\produkti\bin\Debug\produkti.exe
+C:\Users\katri\Documents\Homework\produkti\produkti\bin\Debug\produkti.pdb
+C:\Users\katri\Documents\Homework\produkti\produkti\obj\Debug\produkti.csproj.AssemblyReference.cache
+C:\Users\katri\Documents\Homework\produkti\produkti\obj\Debug\produkti.csproj.CoreCompileInputs.cache
+C:\Users\katri\Documents\Homework\produkti\produkti\obj\Debug\produkti.exe
+C:\Users\katri\Documents\Homework\produkti\produkti\obj\Debug\produkti.pdb
+C:\Users\katri\Documents\Homework\produkti\produkti\obj\Debug\produkti.exe.config
