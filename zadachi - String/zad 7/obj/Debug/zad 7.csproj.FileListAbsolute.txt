@@ -1,0 +1,8 @@
+C:\Users\katri\Documents\Homework\zadachi - String\zad 7\bin\Debug\zad 7.exe.config
+C:\Users\katri\Documents\Homework\zadachi - String\zad 7\bin\Debug\zad 7.exe
+C:\Users\katri\Documents\Homework\zadachi - String\zad 7\bin\Debug\zad 7.pdb
+C:\Users\katri\Documents\Homework\zadachi - String\zad 7\obj\Debug\zad 7.csproj.AssemblyReference.cache
+C:\Users\katri\Documents\Homework\zadachi - String\zad 7\obj\Debug\zad 7.csproj.CoreCompileInputs.cache
+C:\Users\katri\Documents\Homework\zadachi - String\zad 7\obj\Debug\zad 7.exe
+C:\Users\katri\Documents\Homework\zadachi - String\zad 7\obj\Debug\zad 7.pdb
+C:\Users\katri\Documents\Homework\zadachi - String\zad 7\obj\Debug\zad 7.exe.config
